@@ -82,14 +82,18 @@
   <img src="https://leetcard.jacoblin.cool/Vediishh?theme=dark&font=Nunito&ext=contest" alt="LeetCode Stats" width="50%"/>
 </p>
 
+<p align="center">
+  <img src="./assets/leetcode-badges.svg" alt="LeetCode Badges" width="95%"/>
+</p>
+
 ---
 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=vedishchawla&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=vedishchawla&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
   &nbsp;
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=vedishchawla&layout=compact&theme=tokyonight&hide_border=true" width="42%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vedishchawla&layout=compact&theme=tokyonight&hide_border=true" width="42%"/>
 </p>
 
 <p align="center">
@@ -97,7 +101,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vedishchawla&theme=tokyo-night&hide_border=true" alt="Contribution Graph" width="95%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vedishchawla&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" alt="Contribution Graph" width="95%"/>
 </p>
 
 <picture>
